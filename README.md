@@ -21,3 +21,15 @@ This research project delves into the realm of image steganography, aiming to en
 * **Compatibility Challenges:** Integrating VAEs and GANs seamlessly into existing digital systems and workflows may pose compatibility challenges, necessitating thorough testing and adaptation for diverse environments.
 
 * **Balancing Image Quality and Data Concealment:** Striking the right balance between concealing data effectively and preserving the visual integrity of digital assets is a delicate challenge, demanding careful algorithmic design and optimization.
+
+  ### Deep learning Techniques
+
+  The project utilizes the following machine learning and deep learning techniques:
+
+* **Variational Autoencoders (VAEs):** VAEs are employed for data concealment through encoding and decoding processes, contributing to the seamless embedding of data within digital images.
+
+* **Generative Adversarial Networks (GANs):** GANs use adversarial networks to generate hidden data, specifically employed for hiding text behind images in the project.
+
+* **Convolutional Neural Networks (CNNs):** CNNs form the basis for CNN-based image steganography methods, contributing to the embedding and extraction of secret messages within images.
+
+
