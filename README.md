@@ -32,4 +32,15 @@ This research project delves into the realm of image steganography, aiming to en
 
 * **Convolutional Neural Networks (CNNs):** CNNs form the basis for CNN-based image steganography methods, contributing to the embedding and extraction of secret messages within images.
 
+  ## Open Challenges and Future Directions:
+  Despite encouraging advancements, several challenges remain:
+* **Adversarial Attacks:** The susceptibility of steganographic techniques, especially using GANs, to adversarial attacks poses a significant challenge. Future work should focus on enhancing robustness against attacks aiming to compromise data concealment.
+
+* **Real-Time Embedding:** Achieving real-time data embedding within images remains a challenge. Future directions should explore optimizations or alternative techniques to make the process more efficient and suitable for dynamic applications.
+
+* **Large-Scale Deployment:** Scaling the proposed steganography techniques for large-scale deployment in practical scenarios poses challenges. Addressing issues related to scalability and resource consumption is crucial for widespread adoption.
+
+
+  
+
 
