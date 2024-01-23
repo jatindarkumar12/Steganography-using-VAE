@@ -8,3 +8,16 @@
   ## Introduction
   
 This research project delves into the realm of image steganography, aiming to enhance data confidentiality by innovatively concealing and revealing information within digital images. Through the fusion of cutting-edge steganographic methodologies and digital image properties, our objective is to establish highly secure communication channels. This comprehensive exploration encompasses aspects of data security, image processing, and cryptography, aiming to contribute both theoretically and practically to the field. The ultimate goal is to empower individuals and organizations with advanced tools for secure data concealment and extraction in real-world scenarios.
+ ## Literature Review
+ The literature review reveals a progression from traditional image steganography to contemporary methods like CNN-based and GAN-based approaches. The proposed project explores the integration of VAEs and GANs, emphasizing their compatibility, image quality preservation, and security considerations. The findings underscore successful data concealment and applications in diverse domains, while ethical considerations highlight responsible use in digital communication and content protection.
+  ### Challenges and Considerations:
+  
+* **Security Concerns:** Employing steganography techniques using VAEs and GANs raises security issues, as the effectiveness in data concealment may be exploited for malicious purposes such as covert information transfer or hiding malware.
+
+* **Ethical Dilemmas:** Ensuring responsible use is crucial, as concealing data within digital content without proper consent may infringe upon privacy rights, leading to ethical concerns.
+
+* **Detection Risks:** The risk of advanced detection methods identifying steganographic alterations poses a challenge, requiring continuous vigilance to counteract potential threats and maintain system integrity.
+
+* **Compatibility Challenges:** Integrating VAEs and GANs seamlessly into existing digital systems and workflows may pose compatibility challenges, necessitating thorough testing and adaptation for diverse environments.
+
+* **Balancing Image Quality and Data Concealment:** Striking the right balance between concealing data effectively and preserving the visual integrity of digital assets is a delicate challenge, demanding careful algorithmic design and optimization.
