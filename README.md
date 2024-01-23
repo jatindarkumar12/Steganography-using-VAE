@@ -22,7 +22,7 @@ This research project delves into the realm of image steganography, aiming to en
 
 * **Balancing Image Quality and Data Concealment:** Striking the right balance between concealing data effectively and preserving the visual integrity of digital assets is a delicate challenge, demanding careful algorithmic design and optimization.
 
-  ### Deep learning Techniques
+### Deep learning Techniques
 
   The project utilizes the following machine learning and deep learning techniques:
 
