@@ -1,2 +1,2 @@
 # Steganography using VAE
- ##Team
+  ## Team
