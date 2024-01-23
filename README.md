@@ -1,6 +1,6 @@
 # Steganography using VAE
   ## Team
-  *Jatindar kumar
+  * Jatindar kumar
   Samama farooq
   Sohaib Ahsan
   ## Abstract
