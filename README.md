@@ -3,6 +3,10 @@
   * Jatindar kumar
   * Samama farooq
   * Sohaib Ahsan
+
+  ## To Run
+  Simply run the Steganography.ipynb file. For pre-trained model, you can load the saved model'model650.h5'.
+  
   ## Abstract
   This repository examines image steganography using VAEs and GANs techniques. It evaluates their compatibility, image quality preservation, and efficiency. VAEs are employed for data concealment through encoding and decoding processes, while GANs utilize adversarial networks to generate hidden data. The study compares them, with VAEs known for their user-friendliness and efficiency, and GANs for their adaptability and enhanced security. GANs are specifically used to hide text behind images, while VAEs are used to hide images behind images. This research contributes to data security in digital images
   ## Introduction
@@ -40,6 +44,11 @@ This research project delves into the realm of image steganography, aiming to en
 
 * **Large-Scale Deployment:** Scaling the proposed steganography techniques for large-scale deployment in practical scenarios poses challenges. Addressing issues related to scalability and resource consumption is crucial for widespread adoption.
 
+  ## Conclusion
+  In summary, this research explores image steganography using Variational Autoencoders (VAEs), highlighting their efficiency and user-    
+  friendliness in concealing data within digital images. Ethical considerations and challenges such as security concerns, detection risks, and 
+  compatibility issues are noted, emphasizing the need for responsible deployment. Future work should focus on addressing adversarial attacks, 
+  enabling real-time embedding, and facilitating large-scale deployment for practical data security applications.
 
   
 
